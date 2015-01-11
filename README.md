@@ -1,5 +1,6 @@
 # CustomTextView
 CustomTextView
+Above the picture is a TextView, registered part (KeyWord) is the click event, and through the calculation of coordinates of KeyWord, show the KeyWord want some information.
 
 # ScreenShot
 
